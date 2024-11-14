@@ -63,7 +63,7 @@ int main()
    greenTea.serve();
 
    MasalaTea masalaTea;
-   masalaTea.serve();
+   masalaTea.makeTea();
 
     return 0;
 }
